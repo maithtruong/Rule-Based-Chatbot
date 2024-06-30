@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "maithtruong",
+        "projectKey": "maithtruong_Word_Correction_using_Levenshtein_Distance"
+    }
+}
